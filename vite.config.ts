@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: '/Protflio-code/',
+  base: '/Portfolio-code/', // Fix the spelling from 'Protflio-code' to 'Portfolio-code'
   server: {
     host: "::",
     port: 8080,
